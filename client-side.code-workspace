@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "client-side"
+		},
+		{
+			"path": "server-side"
+		}
+	],
+	"settings": {}
+}
